@@ -8,6 +8,7 @@ html,
 body {
   /* backup when network disconnect */
   font-family: "Jost", sans-serif;
+  scroll-behavior: smooth;
 }
 
 .nav__header {
